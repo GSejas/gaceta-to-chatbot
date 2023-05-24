@@ -1,0 +1,4 @@
+output.txt
+venv/**
+input/**
+__pycache__/**
